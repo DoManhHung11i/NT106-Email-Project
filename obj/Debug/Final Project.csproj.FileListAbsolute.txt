@@ -1,0 +1,114 @@
+D:\TH-HK4\LTM\Final Project\bin\Debug\Final Project.exe.config
+D:\TH-HK4\LTM\Final Project\bin\Debug\Final Project.exe
+D:\TH-HK4\LTM\Final Project\bin\Debug\Final Project.pdb
+D:\TH-HK4\LTM\Final Project\bin\Debug\BouncyCastle.Cryptography.dll
+D:\TH-HK4\LTM\Final Project\bin\Debug\MailKit.dll
+D:\TH-HK4\LTM\Final Project\bin\Debug\MimeKit.dll
+D:\TH-HK4\LTM\Final Project\bin\Debug\System.Buffers.dll
+D:\TH-HK4\LTM\Final Project\bin\Debug\System.Formats.Asn1.dll
+D:\TH-HK4\LTM\Final Project\bin\Debug\System.Memory.dll
+D:\TH-HK4\LTM\Final Project\bin\Debug\System.Numerics.Vectors.dll
+D:\TH-HK4\LTM\Final Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\TH-HK4\LTM\Final Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\TH-HK4\LTM\Final Project\bin\Debug\System.ValueTuple.dll
+D:\TH-HK4\LTM\Final Project\bin\Debug\BouncyCastle.Cryptography.xml
+D:\TH-HK4\LTM\Final Project\bin\Debug\MailKit.pdb
+D:\TH-HK4\LTM\Final Project\bin\Debug\MailKit.xml
+D:\TH-HK4\LTM\Final Project\bin\Debug\MailKit.dll.config
+D:\TH-HK4\LTM\Final Project\bin\Debug\MimeKit.pdb
+D:\TH-HK4\LTM\Final Project\bin\Debug\MimeKit.xml
+D:\TH-HK4\LTM\Final Project\bin\Debug\MimeKit.dll.config
+D:\TH-HK4\LTM\Final Project\bin\Debug\System.Buffers.xml
+D:\TH-HK4\LTM\Final Project\bin\Debug\System.Formats.Asn1.xml
+D:\TH-HK4\LTM\Final Project\bin\Debug\System.Memory.xml
+D:\TH-HK4\LTM\Final Project\bin\Debug\System.Numerics.Vectors.xml
+D:\TH-HK4\LTM\Final Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\TH-HK4\LTM\Final Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\TH-HK4\LTM\Final Project\bin\Debug\System.ValueTuple.xml
+D:\TH-HK4\LTM\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+D:\TH-HK4\LTM\Final Project\obj\Debug\Lab5.MailBox.resources
+D:\TH-HK4\LTM\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+D:\TH-HK4\LTM\Final Project\obj\Debug\Lab5.SendEmailForm.resources
+D:\TH-HK4\LTM\Final Project\obj\Debug\Lab5.ViewEmailForm.resources
+D:\TH-HK4\LTM\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+D:\TH-HK4\LTM\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+D:\TH-HK4\LTM\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+D:\TH-HK4\LTM\Final Project\obj\Debug\Final Project.exe
+D:\TH-HK4\LTM\Final Project\obj\Debug\Final Project.pdb
+D:\TH-HK4\LTM\Final Project\obj\Debug\Final_Project.LogIn.resources
+C:\Users\Admin\Desktop\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Admin\Desktop\Final Project\bin\Debug\Final Project.exe
+C:\Users\Admin\Desktop\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Admin\Desktop\Final Project\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Desktop\Final Project\bin\Debug\MailKit.dll
+C:\Users\Admin\Desktop\Final Project\bin\Debug\MimeKit.dll
+C:\Users\Admin\Desktop\Final Project\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\Final Project\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Admin\Desktop\Final Project\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\Final Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\Final Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\Final Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Final Project\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Final Project\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Admin\Desktop\Final Project\bin\Debug\MailKit.pdb
+C:\Users\Admin\Desktop\Final Project\bin\Debug\MailKit.xml
+C:\Users\Admin\Desktop\Final Project\bin\Debug\MailKit.dll.config
+C:\Users\Admin\Desktop\Final Project\bin\Debug\MimeKit.pdb
+C:\Users\Admin\Desktop\Final Project\bin\Debug\MimeKit.xml
+C:\Users\Admin\Desktop\Final Project\bin\Debug\MimeKit.dll.config
+C:\Users\Admin\Desktop\Final Project\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\Final Project\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Admin\Desktop\Final Project\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\Final Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\Final Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\Final Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\Final Project\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Final Project\obj\Debug\Final_Project.LogIn.resources
+C:\Users\Admin\Desktop\Final Project\obj\Debug\Lab5.MailBox.resources
+C:\Users\Admin\Desktop\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Admin\Desktop\Final Project\obj\Debug\Lab5.SendEmailForm.resources
+C:\Users\Admin\Desktop\Final Project\obj\Debug\Lab5.ViewEmailForm.resources
+C:\Users\Admin\Desktop\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Final Project\obj\Debug\Final Pr.B69720BE.Up2Date
+C:\Users\Admin\Desktop\Final Project\obj\Debug\Final Project.exe
+C:\Users\Admin\Desktop\Final Project\obj\Debug\Final Project.pdb
+C:\Users\84378\Downloads\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\84378\Downloads\Final Project\bin\Debug\Final Project.exe
+C:\Users\84378\Downloads\Final Project\bin\Debug\Final Project.pdb
+C:\Users\84378\Downloads\Final Project\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\84378\Downloads\Final Project\bin\Debug\MailKit.dll
+C:\Users\84378\Downloads\Final Project\bin\Debug\MimeKit.dll
+C:\Users\84378\Downloads\Final Project\bin\Debug\System.Buffers.dll
+C:\Users\84378\Downloads\Final Project\bin\Debug\System.Formats.Asn1.dll
+C:\Users\84378\Downloads\Final Project\bin\Debug\System.Memory.dll
+C:\Users\84378\Downloads\Final Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\84378\Downloads\Final Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\84378\Downloads\Final Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\84378\Downloads\Final Project\bin\Debug\System.ValueTuple.dll
+C:\Users\84378\Downloads\Final Project\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\84378\Downloads\Final Project\bin\Debug\MailKit.pdb
+C:\Users\84378\Downloads\Final Project\bin\Debug\MailKit.xml
+C:\Users\84378\Downloads\Final Project\bin\Debug\MailKit.dll.config
+C:\Users\84378\Downloads\Final Project\bin\Debug\MimeKit.pdb
+C:\Users\84378\Downloads\Final Project\bin\Debug\MimeKit.xml
+C:\Users\84378\Downloads\Final Project\bin\Debug\MimeKit.dll.config
+C:\Users\84378\Downloads\Final Project\bin\Debug\System.Buffers.xml
+C:\Users\84378\Downloads\Final Project\bin\Debug\System.Formats.Asn1.xml
+C:\Users\84378\Downloads\Final Project\bin\Debug\System.Memory.xml
+C:\Users\84378\Downloads\Final Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\84378\Downloads\Final Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\84378\Downloads\Final Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\84378\Downloads\Final Project\bin\Debug\System.ValueTuple.xml
+C:\Users\84378\Downloads\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\84378\Downloads\Final Project\obj\Debug\Final_Project.LogIn.resources
+C:\Users\84378\Downloads\Final Project\obj\Debug\Lab5.MailBox.resources
+C:\Users\84378\Downloads\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\84378\Downloads\Final Project\obj\Debug\Lab5.SendEmailForm.resources
+C:\Users\84378\Downloads\Final Project\obj\Debug\Lab5.ViewEmailForm.resources
+C:\Users\84378\Downloads\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\84378\Downloads\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\84378\Downloads\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+C:\Users\84378\Downloads\Final Project\obj\Debug\Final Project.exe
+C:\Users\84378\Downloads\Final Project\obj\Debug\Final Project.pdb
